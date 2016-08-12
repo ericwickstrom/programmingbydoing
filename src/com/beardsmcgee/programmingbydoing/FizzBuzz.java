@@ -7,8 +7,8 @@ package com.beardsmcgee.programmingbydoing;
  */
 
 public class FizzBuzz {
-	private static final String FIZZ = "FIZZ";
-	private static final String BUZZ = "BUZZ";
+	private static final String FIZZ = "Fizz";
+	private static final String BUZZ = "Buzz";
 	private static final String SPACE = " ";
 	
 	public static final void main(String[] args){
